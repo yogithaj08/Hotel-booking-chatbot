@@ -56,7 +56,7 @@ The goal of this capstone project was to **create a Hotel Booking Chatbot** usin
 ## Screenshots
 
 Below are the initial preview screenshots.  
-Full set of all 14 screenshots is available in the `/screenshots` folder.
+Full set of all 14 screenshots is available in the [`/screenshots`](./screenshots) folder.
 
 <p align="center">
   <img src="./screenshots/chatbot01.jpeg" width="200"/>
