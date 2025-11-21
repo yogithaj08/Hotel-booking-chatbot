@@ -82,3 +82,23 @@ Full set of all 14 screenshots is available in the [`/screenshots`](./screenshot
 
 
 ## Project Structure
+📦 chatbot-internship-project
+│
+├── README.md
+│
+├── 📁 screenshots
+│   ├── chatbot01.jpeg
+│   ├── chatbot02.jpeg
+│   ├── chatbot03.jpeg
+│   ├── chatbot04.jpeg
+│   ├── chatbot05.jpeg
+│   ├── chatbot06.jpeg
+│   ├── chatbot07.jpeg
+│   ├── chatbot08.jpeg
+│   ├── chatbot09.jpeg
+│   ├── chatbot10.jpeg
+│   ├── chatbot11.jpeg
+│   ├── chatbot12.jpeg
+│   ├── chatbot13.jpeg
+│   ├── chatbot14.jpeg
+
