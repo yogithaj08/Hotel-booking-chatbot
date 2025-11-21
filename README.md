@@ -19,7 +19,6 @@ The goal of this capstone project was to **create a Hotel Booking Chatbot** usin
    - Location  
 4. The entire conversation must flow smoothly under the **BookHotel intent**.
 
----
 
 ## Features Implemented
 - Intent-based design using Amazon Lex (`BookHotel`)
