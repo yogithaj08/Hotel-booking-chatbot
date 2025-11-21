@@ -55,42 +55,20 @@ The goal of this capstone project was to **create a Hotel Booking Chatbot** usin
 
 ## Screenshots
 
-## 📸 Screenshots
-
-Below are preview images. Full-size images are available in the  
-[`/screenshots`](./screenshots) folder.
+Below are the initial preview screenshots.  
+Full set of all 14 screenshots is available in the `/screenshots` folder.
 
 <p align="center">
-  <img src="./screenshots/chatbot01.jpeg" width="180" height="320"/>
-  <img src="./screenshots/chatbot02.jpeg" width="180" height="320"/>
-  <img src="./screenshots/chatbot03.jpeg" width="180" height="320"/>
+  <img src="./screenshots/chatbot01.jpeg" width="200"/>
+  <img src="./screenshots/chatbot02.jpeg" width="200"/>
+  <img src="./screenshots/chatbot03.jpeg" width="200"/>
 </p>
 
 <p align="center">
-  <img src="./screenshots/chatbot04.jpeg" width="180" height="320"/>
-  <img src="./screenshots/chatbot05.jpeg" width="180" height="320"/>
-  <img src="./screenshots/chatbot06.jpeg" width="180" height="320"/>
+  <img src="./screenshots/chatbot04.jpeg" width="200"/>
+  <img src="./screenshots/chatbot05.jpeg" width="200"/>
+  <img src="./screenshots/chatbot06.jpeg" width="200"/>
 </p>
-
-<p align="center">
-  <img src="./screenshots/chatbot07.jpeg" width="180" height="320"/>
-  <img src="./screenshots/chatbot08.jpeg" width="180" height="320"/>
-  <img src="./screenshots/chatbot09.jpeg" width="180" height="320"/>
-</p>
-
-<p align="center">
-  <img src="./screenshots/chatbot10.jpeg" width="180" height="320"/>
-  <img src="./screenshots/chatbot11.jpeg" width="180" height="320"/>
-  <img src="./screenshots/chatbot12.jpeg" width="180" height="320"/>
-</p>
-
-<p align="center">
-  <img src="./screenshots/chatbot13.jpeg" width="180" height="320"/>
-  <img src="./screenshots/chatbot14.jpeg" width="180" height="320"/>
-</p>
-
-> *All screenshots are available in the `/screenshots` folder.*
-
 
 
 ## What I Learned During the Internship
