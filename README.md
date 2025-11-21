@@ -56,8 +56,20 @@ The goal of this capstone project was to **create a Hotel Booking Chatbot** usin
 ---
 
 ## Screenshots
-Add all your chatbot screenshots here.  
-(If uploading to GitHub, place them inside a folder named `/screenshots`)
+![Chatbot Screenshot 1](screenshots/chatbot01.jpeg)
+![Chatbot Screenshot 2](screenshots/chatbot02.jpeg)
+![Chatbot Screenshot 3](screenshots/chatbot03.jpeg)
+![Chatbot Screenshot 4](screenshots/chatbot04.jpeg)
+![Chatbot Screenshot 5](screenshots/chatbot05.jpeg)
+![Chatbot Screenshot 6](screenshots/chatbot06.jpeg)
+![Chatbot Screenshot 7](screenshots/chatbot07.jpeg)
+![Chatbot Screenshot 8](screenshots/chatbot08.jpeg)
+![Chatbot Screenshot 9](screenshots/chatbot09.jpeg)
+![Chatbot Screenshot 10](screenshots/chatbot10.jpeg)
+![Chatbot Screenshot 11](screenshots/chatbot11.jpeg)
+![Chatbot Screenshot 12](screenshots/chatbot12.jpeg)
+![Chatbot Screenshot 13](screenshots/chatbot13.jpeg)
+![Chatbot Screenshot 14](screenshots/chatbot14.jpeg)
 
 ---
 
