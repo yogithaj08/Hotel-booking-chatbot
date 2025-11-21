@@ -54,7 +54,6 @@ The goal of this capstone project was to **create a Hotel Booking Chatbot** usin
 
 
 ## Screenshots
-## 📸 Screenshots
 
 Below are some screenshots of the Hotel Booking Chatbot:
 
@@ -74,6 +73,7 @@ Below are some screenshots of the Hotel Booking Chatbot:
   <img src="chatbot13.jpeg" width="300" height="500"/>
   <img src="chatbot14.jpeg" width="300" height="500"/>
 </p>
+
 
 
 
