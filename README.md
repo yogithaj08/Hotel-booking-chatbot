@@ -3,9 +3,7 @@
 ## Internship Overview
 This project was developed as part of my **2-month Cloud Computing Internship at TeachNook**.  
 During the internship, I learned how to build chatbots using **Amazon Lex**, integrate them with backend services, design conversational flows, and understand cloud-based application development.
-
-
-
+---
 # Hotel Booking Chatbot using Amazon Lex
 ## Project Objective
 The goal of this capstone project was to **create a Hotel Booking Chatbot** using **Amazon Lex** with the following requirements:
