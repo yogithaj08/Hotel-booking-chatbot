@@ -31,7 +31,7 @@ The goal of this capstone project was to **create a Hotel Booking Chatbot** usin
 - Error handling and re-prompt messages
 - Natural language conversation-style chatbot
 
----
+
 
 ## Technologies Used
 - **Amazon Lex** – for building the chatbot  
@@ -40,7 +40,7 @@ The goal of this capstone project was to **create a Hotel Booking Chatbot** usin
 - **Python** – for Lambda functions  
 - **AWS CloudWatch** – for monitoring logs  
 
----
+
 
 ## Sample Conversation Flow
 
@@ -51,7 +51,7 @@ The goal of this capstone project was to **create a Hotel Booking Chatbot** usin
 **User:** Yes  
 **Bot:** Your booking is confirmed! Duration: 3 days, Price: ₹1000, Room: Duplex. Thank you!  
 
----
+
 
 ## Screenshots
 ![Chatbot Screenshot 1](screenshots/chatbot01.jpeg)
@@ -69,7 +69,7 @@ The goal of this capstone project was to **create a Hotel Booking Chatbot** usin
 ![Chatbot Screenshot 13](screenshots/chatbot13.jpeg)
 ![Chatbot Screenshot 14](screenshots/chatbot14.jpeg)
 
----
+
 
 ## What I Learned During the Internship
 - Building and configuring chatbots in Amazon Lex  
@@ -79,6 +79,6 @@ The goal of this capstone project was to **create a Hotel Booking Chatbot** usin
 - Debugging and monitoring using CloudWatch  
 - Basics of cloud deployment  
 
----
+
 
 ## Project Structure
