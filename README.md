@@ -37,7 +37,7 @@ The goal of this capstone project was to **create a Hotel Booking Chatbot** usin
 
 ## Technologies Used
 - **Amazon Lex** – for building the chatbot  
-- **AWS Lambda (optional)** – for backend logic  
+- **AWS Lambda** – for backend logic  
 - **AWS IAM** – for permissions  
 - **Python** – for Lambda functions  
 - **AWS CloudWatch** – for monitoring logs  
