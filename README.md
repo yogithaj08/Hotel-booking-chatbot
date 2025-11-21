@@ -58,20 +58,20 @@ The goal of this capstone project was to **create a Hotel Booking Chatbot** usin
 Below are some screenshots of the Hotel Booking Chatbot:
 
 <p align="center">
-  <img src="chatbot01.jpeg" width="300" height="500"/>
-  <img src="chatbot02.jpeg" width="300" height="500"/>
-  <img src="chatbot03.jpeg" width="300" height="500"/>
-  <img src="chatbot04.jpeg" width="300" height="500"/>
-  <img src="chatbot05.jpeg" width="300" height="500"/>
-  <img src="chatbot06.jpeg" width="300" height="500"/>
-  <img src="chatbot07.jpeg" width="300" height="500"/>
-  <img src="chatbot08.jpeg" width="300" height="500"/>
-  <img src="chatbot09.jpeg" width="300" height="500"/>
-  <img src="chatbot10.jpeg" width="300" height="500"/>
-  <img src="chatbot11.jpeg" width="300" height="500"/>
-  <img src="chatbot12.jpeg" width="300" height="500"/>
-  <img src="chatbot13.jpeg" width="300" height="500"/>
-  <img src="chatbot14.jpeg" width="300" height="500"/>
+  <img src="./screenshots/chatbot01.jpeg" width="300" height="500"/>
+  <img src="./screenshots/chatbot02.jpeg" width="300" height="500"/>
+  <img src="./screenshots/chatbot03.jpeg" width="300" height="500"/>
+  <img src="./screenshots/chatbot04.jpeg" width="300" height="500"/>
+  <img src="./screenshots/chatbot05.jpeg" width="300" height="500"/>
+  <img src="./screenshots/chatbot06.jpeg" width="300" height="500"/>
+  <img src="./screenshots/chatbot07.jpeg" width="300" height="500"/>
+  <img src="./screenshots/chatbot08.jpeg" width="300" height="500"/>
+  <img src="./screenshots/chatbot09.jpeg" width="300" height="500"/>
+  <img src="./screenshots/chatbot10.jpeg" width="300" height="500"/>
+  <img src="./screenshots/chatbot11.jpeg" width="300" height="500"/>
+  <img src="./screenshots/chatbot12.jpeg" width="300" height="500"/>
+  <img src="./screenshots/chatbot13.jpeg" width="300" height="500"/>
+  <img src="./screenshots/chatbot14.jpeg" width="300" height="500"/>
 </p>
 
 
