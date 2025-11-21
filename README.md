@@ -1,14 +1,14 @@
 # TeachNook Cloud Computing Internship – Chatbot Project
 
-## 📚 Internship Overview
+## Internship Overview
 This project was developed as part of my **2-month Cloud Computing Internship at TeachNook**.  
 During the internship, I learned how to build chatbots using **Amazon Lex**, integrate them with backend services, design conversational flows, and understand cloud-based application development.
 
 ---
 
-# 🏨 Hotel Booking Chatbot using Amazon Lex
+# Hotel Booking Chatbot using Amazon Lex
 
-## 💡 Project Objective
+## Project Objective
 The goal of this capstone project was to **create a Hotel Booking Chatbot** using **Amazon Lex** with the following requirements:
 
 1. The chatbot must collect all hotel booking details from the user.  
@@ -22,7 +22,7 @@ The goal of this capstone project was to **create a Hotel Booking Chatbot** usin
 
 ---
 
-## 🧠 Features Implemented
+## Features Implemented
 - Intent-based design using Amazon Lex (`BookHotel`)
 - Slot filling for inputs such as:
   - **City**
@@ -35,7 +35,7 @@ The goal of this capstone project was to **create a Hotel Booking Chatbot** usin
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 - **Amazon Lex** – for building the chatbot  
 - **AWS Lambda (optional)** – for backend logic  
 - **AWS IAM** – for permissions  
@@ -44,7 +44,7 @@ The goal of this capstone project was to **create a Hotel Booking Chatbot** usin
 
 ---
 
-## 🗣️ Sample Conversation Flow
+## Sample Conversation Flow
 
 **User:** Book a room in Goa for 3 days under ₹1000  
 **Bot:** What type of room would you like? Classic, Duplex, or Double Bed?  
@@ -55,13 +55,13 @@ The goal of this capstone project was to **create a Hotel Booking Chatbot** usin
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 Add all your chatbot screenshots here.  
 (If uploading to GitHub, place them inside a folder named `/screenshots`)
 
 ---
 
-## 🧾 What I Learned During the Internship
+## What I Learned During the Internship
 - Building and configuring chatbots in Amazon Lex  
 - Creating intents, slots, and slot types  
 - Writing and connecting AWS Lambda functions  
@@ -71,4 +71,4 @@ Add all your chatbot screenshots here.
 
 ---
 
-## 📌 Project Structure
+## Project Structure
