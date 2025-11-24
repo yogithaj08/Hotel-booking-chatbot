@@ -48,6 +48,10 @@ The chatbot's conversation flow is shown below:
 ![Chatbot Flowchart](assets/chatbot_flowchart.png)
 
 
+## Example Interaction
+
+You can view a sample conversation with the chatbot [here](assets/example.txt).
+
 
 ## Screenshots
 
