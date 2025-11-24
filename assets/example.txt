@@ -1,0 +1,16 @@
+User: I want to book a hotel
+Chatbot: Okay, I will help you with that.
+Chatbot: In which city do you want to stay?
+User: Bangalore
+Chatbot: Please enter the number of days you want to stay.
+User: 2
+Chatbot: At what price are you looking for?
+User: 5000
+Chatbot: Which date do you want to check in?
+User: 2-4-2024
+Chatbot: What type of room do you want to stay in Classic,Duplex,King,Queen?
+User: King
+Chatbot: Are you sure about this?
+User: Yes
+Chatbot: Okay.Your information will be processed.
+Chatbot: Have a good day.
