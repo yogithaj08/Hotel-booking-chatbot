@@ -21,7 +21,7 @@ The goal of this capstone project was to **create a Hotel Booking Chatbot** usin
 
 
 ## Features Implemented
-- Intent-based design using Amazon Lex (`BookHotel`)
+- Intent-based design using Amazon Lex (BookHotel)
 - Slot filling for inputs such as:
   - **City**
   - **Number of days**
