@@ -42,14 +42,10 @@ The goal of this capstone project was to **create a Hotel Booking Chatbot** usin
 
 
 
-## Sample Conversation Flow
+### Conversation Flow
+The chatbot's conversation flow is shown below:
 
-**User:** Book a room in Goa for 3 days under ₹1000  
-**Bot:** What type of room would you like? Classic, Duplex, or Double Bed?  
-**User:** Duplex  
-**Bot:** Can I go ahead and confirm your booking?  
-**User:** Yes  
-**Bot:** Your booking is confirmed! Duration: 3 days, Price: ₹1000, Room: Duplex. Thank you!  
+![Chatbot Flowchart](assets/chatbot_flowchart.png)
 
 
 
