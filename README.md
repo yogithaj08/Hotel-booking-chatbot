@@ -43,9 +43,8 @@ The goal of this capstone project was to **create a Hotel Booking Chatbot** usin
 
 
 ### Conversation Flow
-The chatbot's conversation flow is shown below:
-
-![Chatbot Flowchart](assets/chatbot_flowchart.png)
+The chatbot flowchart is available here:  
+[`chatbot_flowchart.png`](./assets/chatbot_flowchart.png)
 
 
 ## Example Interaction
@@ -83,6 +82,8 @@ Full set of all 14 screenshots is available in the [`/screenshots`](./screenshot
 
 ## Project Structure
 Hotel-booking-chatbot
+    
+    
     README.md
     screenshots/
         chatbot01.jpeg
