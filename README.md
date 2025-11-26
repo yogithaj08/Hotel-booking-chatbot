@@ -84,7 +84,6 @@ Full set of all 14 screenshots is available in the [`/screenshots`](./screenshot
 ## Project Structure
 Hotel-booking-chatbot
     README.md
-
     screenshots/
         chatbot01.jpeg
         chatbot02.jpeg
