@@ -51,10 +51,25 @@ The chatbot flowchart is available here:[`chatbot_flowchart.png`](./assets/chatb
 You can view a sample conversation with the chatbot in the example interaction: [example.txt](assets/example.txt)
 
 
+## Project Structure
+
+```text
+hotel-booking-chatbot
+
+├── README.md
+├── screenshots/
+├── assets/
+│   ├── chatbot_flowchart.png
+│   └── example.txt
+```
+
+---
+
+
 ## Screenshots
 
 Below are the initial preview screenshots.  
-Full set of all 14 screenshots is available in the [`/screenshots`](./screenshots) folder.
+Additional implementation screenshots are available in the [`/screenshots`](./screenshots) folder.
 
 <p align="center">
   <img src="./screenshots/chatbot01.jpeg" width="200"/>
