@@ -83,7 +83,8 @@ hotel-booking-chatbot
 │   ├── chatbot_flowchart.png
 │   └── example.txt
 ├── screenshots/
-│   └── Amazon Lex chatbot implementation screenshots
+│   ├── README.md
+│   └── chatbot screenshots
 └── README.md
 ```
 
