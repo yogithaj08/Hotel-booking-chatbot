@@ -40,11 +40,13 @@ The goal of this capstone project was to **create a Hotel Booking Chatbot** usin
 
 ## Technologies Used
 
-* **Amazon Lex** – for building the chatbot
-* **AWS Lambda** – for backend logic
-* **AWS IAM** – for permissions
-* **Python** – for Lambda functions
-* **AWS CloudWatch** – for monitoring logs
+| Category | Technology |
+|-----------|------------|
+| Chatbot Platform | Amazon Lex |
+| Backend Logic | AWS Lambda |
+| Programming Language | Python |
+| Monitoring | AWS CloudWatch |
+| Permissions | AWS IAM |
 
 ---
 
@@ -77,11 +79,12 @@ You can view a sample conversation with the chatbot in the example interaction: 
 ```text
 hotel-booking-chatbot
 
-├── README.md
-├── screenshots/
 ├── assets/
 │   ├── chatbot_flowchart.png
 │   └── example.txt
+├── screenshots/
+│   └── Amazon Lex chatbot implementation screenshots
+└── README.md
 ```
 
 ---
