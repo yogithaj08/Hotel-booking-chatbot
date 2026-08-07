@@ -85,6 +85,7 @@ hotel-booking-chatbot
 ├── screenshots/
 │   ├── README.md
 │   └── chatbot screenshots
+├── LICENSE
 └── README.md
 ```
 
